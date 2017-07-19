@@ -1,5 +1,6 @@
 #include "Multiple.cpp"
 #pragma once
+//http://vscode.ru/articles/windows-forms-cpp.html
 
 namespace WinForms {
 
